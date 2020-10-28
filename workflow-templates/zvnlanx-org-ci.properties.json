@@ -1,0 +1,19 @@
+{
+  "name": "Zvnlanx Organization Workflow",
+  "description": "Zvnlanx Organization CI workflow template.",
+  "iconName": "zvnlanx-org-icon",
+  "categories": [
+    "Go",
+    "Rust",
+    "Python",
+    "Typescript",
+    "Java",
+    "Javascript",
+    "Lua"
+  ],
+  "filePatterns": [
+    "package.json$",
+    "^Dockerfile",
+    ".*\\.md$"
+  ]
+}
